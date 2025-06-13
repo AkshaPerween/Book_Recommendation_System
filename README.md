@@ -1,1 +1,3 @@
 # Book_Recommendation_System
+Our Book Recommender System is designed to help users discover books that align with their personal preferences and emotions. By analyzing the user’s input description, selected category (e.g., fiction, non-fiction), and emotional tone, the system intelligently suggests books that best match the reader’s intent. Leveraging Natural Language Processing (NLP) and sentiment analysis, this personalized approach enhances the reading experience and simplifies book discovery in an ever-growing literary landscape.
+![Screenshot 2025-05-03 022652](https://github.com/user-attachments/assets/03d879cb-0a35-4e18-ac88-0699695ad1f2)
